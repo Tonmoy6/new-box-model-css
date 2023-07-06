@@ -1,4 +1,7 @@
 .box{
-    background-color: aqua;
-    border: 10px solid green;
+    border: 30px solid green;
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 50px 10px 50px 10px;
+    border-radius: 10px 20px 50px 50px;
 }
